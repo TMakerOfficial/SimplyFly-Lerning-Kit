@@ -1,0 +1,16 @@
+{
+  "name": "SimpleFly Learning Kit",
+  "version": "V2",
+  "builds": [
+    {
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        {
+          "path": "Quadcopter_SimpleFly_V2.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
+
